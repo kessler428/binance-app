@@ -1,16 +1,11 @@
-# binance_implementation
+#binance_implementation
+Este proyecto Flutter es una implementación de la API de Binance para visualizar los precios de las criptomonedas en tiempo real.
 
-A new Flutter project.
+$Descripción
+El proyecto utiliza la API de Binance para obtener los precios de las criptomonedas en tiempo real. Los datos se muestran en un gráfico de barras, donde cada barra representa una criptomoneda diferente. Los usuarios pueden ver el precio actual de BTC, BNB, ETH, HBAR y DOGE.
 
-## Getting Started
+#Configuración de la API
+Para configurar la API de Binance, se creó un repositorio y un datasource. El datasource se encarga de hacer las llamadas a la API y el repositorio se encarga de manejar los datos que se obtienen de estas llamadas.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uso
+Para usar el proyecto, simplemente clone el repositorio y ejecute flutter run en la terminal.
